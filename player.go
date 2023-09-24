@@ -9,6 +9,9 @@ GetName() string
 
 }
 
+//cannot use detail1 (variable of type *"contactapp/contactdetails".ContactDetails) as *"contactapp/contactDetails".ContactDetails value in argument to appendcompilerIncompatibleAssign
+//var detail1 *contactdetails.ContactDetails
+
  
 
 type HumanPlayer struct {
